@@ -19,7 +19,7 @@ This repository provides tools to:
 ├── data_builder/              # Scripts for data chunking, index building, and preparation
 │   └── make_index.py          # Script to build the retrieval index from data
 │   └── make_chunk.py          # Script to make chunk data from text file
-│   └── make_chunk_split.py    # Script to make chunk_split data from chunk dat
+│   └── make_chunk_split.py    # Script to make chunk_split data from chunk data
 ├── training_result/           # Directory for saving training outputs/results
 └── README.md                  # Project documentation
 ```
