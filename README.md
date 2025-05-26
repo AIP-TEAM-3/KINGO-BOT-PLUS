@@ -13,13 +13,15 @@ This repository provides tools to:
 
 ```
 .
-├── benchmark.py         # Script to evaluate/benchmark the RAG pipeline
-├── make_index.py        # Script to build the retrieval index from data
-├── train.py             # Script to train the RAG model
-├── data/                # Directory containing raw and processed data
-├── data_builder/        # Scripts for data chunking and preparation
-├── training_result/     # Directory for saving training outputs/results
-└── README.md            # Project documentation
+├── benchmark.py               # Script to evaluate/benchmark the RAG pipeline
+├── train.py                   # Script to train the RAG model
+├── data/                      # Directory containing raw and processed data
+├── data_builder/              # Scripts for data chunking, index building, and preparation
+│   └── make_index.py          # Script to build the retrieval index from data
+│   └── make_chunk.py          # Script to make chunk data from text file
+│   └── make_chunk_split.py    # Script to make chunk_split data from chunk dat
+├── training_result/           # Directory for saving training outputs/results
+└── README.md                  # Project documentation
 ```
 
 ## Script Descriptions
@@ -33,12 +35,12 @@ python train.py
 ```
 *Configure training parameters inside the script or via command-line arguments if supported.*
 
-### 2. `make_index.py`
+### 2. `data_builder/make_index.py`
 Builds a retrieval index from the trained model outputs. This step is required before benchmarking.
 
 **Usage:**
 ```bash
-python make_index.py
+python data_builder/make_index.py
 ```
 *Edit the script or provide arguments as needed to specify data sources or index parameters.*
 
@@ -81,7 +83,7 @@ python benchmark.py
 
 3. **Build Index:**  
    ```bash
-   python make_index.py
+   python data_builder/make_index.py
    ```
 
 4. **Benchmark Model:**  
