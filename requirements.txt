@@ -1,0 +1,7 @@
+pandas
+tqdm
+torch
+scikit-learn
+sentence-transformers
+faiss-cpu
+transformers
