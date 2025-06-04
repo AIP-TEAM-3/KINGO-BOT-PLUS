@@ -1,0 +1,5 @@
+AI인증을 받으려면 어떻게 해야 해?	AI 인증을 받으려면 AI 관련 자격증 취득, AI 공모전 입상, 그리고 AI 교과 및 비교과 교육 이수를 통해 인증을 신청할 수 있습니다.	163.txt  
+AI관련 자격증은 어떤 것들이 있어?	AI 관련 자격증에는 ADP/ADsP, ProDS, AICE 등이 포함됩니다.	163.txt  
+ADP/ADsP 자격증은 어디서 취득할 수 있어?	ADP/ADsP 자격증은 한국데이터베이스진흥원에서 주관하여 취득할 수 있습니다.	163.txt  
+ProDS 자격증 종류에는 어떤 게 있어?	ProDS 자격증에는 Associate(구 AssociateDS), Advanced(구 DS), Professional(구 SeniorDS) 등이 포함됩니다.	163.txt  
+AI공모전에는 어떻게 참가할 수 있어?	AI 공모전에 참가하려면 전국 규모의 데이터/AI 관련 대회 또는 공모전에 참가하여야 하며, 참가자는 100인 이상이어야 합니다.	163.txt  

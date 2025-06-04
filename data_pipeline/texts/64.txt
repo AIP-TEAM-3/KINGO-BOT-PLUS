@@ -1,0 +1,25 @@
+학사과정 공학교육인증(ABEEK) 08
+
+- 공학교육인증 심화프로그램 학위명
+- 공학교육인증을 받은 프로그램(심화프로그램) 기준을 만족한 학생은 심화프로그램 이수자임을 학위증서, 졸업증서, 성적증명서에 표기하며, 공학교육인증에 따른 학사학위명이 아래와 같이 부여됩니다.
+
+| 심화프로그램 설치학과 | 학과명(영문학위명) | 심화 프로그램 | 일반 프로그램 |
+|----------------------|------------------|---------------|---------------|
+| 전자전기공학부        | 전자전기공학심화프로그램 | 전자전기공학부 | 전자전기공학부 |
+| (Electronic and Electrical Engineering) | (BS in Electronic and Electrical Engineering) | (BS in Engineering) |
+| 컴퓨터공학과          | 컴퓨터공학심화프로그램 | 컴퓨터공학과 | 컴퓨터공학과 |
+| (Computer Science & Engineering) | (BS in Computer Engineering) | (BS in Engineering) |
+| 신소재공학부          | 신소재공학심화프로그램 | 신소재공학부 | 신소재공학부 |
+| (Advanced Materials Science and Engineering) | (BS in Advanced Materials Science and Engineering) | (BS in Engineering) |
+| 기계공학부            | 기계공학심화프로그램 | 기계공학부 | 기계공학부 |
+| (Mechanical Engineering) | (BS in Mechanical Engineering) | (BS in Engineering) |
+| 건설환경공학부        | 건축공학심화프로그램 | 건설환경공학부 | 건설환경공학부 |
+| (Civil, Architectural Engineering and Landscape Architecture) | (BS in Architectural Engineering) | (BS in Engineering) |
+|                      | 토목공학심화프로그램 |               |               |
+|                      | (BS in Civil Engineering) |               |               |
+| 시스템경영공학과      | 시스템경영공학심화프로그램 | 시스템경영공학과 | 시스템경영공학과 |
+| (Systems Management Engineering) | (BS in Systems Management Engineering) | (BS in Engineering) |
+| 화학공학부            | 화학공학심화프로그램 | 화학공학부 | 화학공학부 |
+|                      | (BS in Chemical Engineering) | (BS in Engineering) |
+
+경운대학교 57
