@@ -1,0 +1,51 @@
+G-TELP 시험의 A단계 기준 점수는 몇 점이야?	175.txt
+OPIc 시험에서 B단계는 어느 수준 이상이야?	175.txt
+TOEIC Speaking 점수는 A단계 몇 점 이상이 필요해?	175.txt
+IELTS 2002학번은 몇 점 이상이어야 해?	175.txt
+프랑스어 DELF B1이 어떤 시험이야?	175.txt
+중국어 新HSK 5급의 기준 점수는 몇 점이야?	175.txt
+독일어 ZD 시험은 몇 점 이상이어야 해?	175.txt
+러시아어 TORFL 1단계는 어떤 시험이야?	175.txt
+일본어 JLPT N2는 어떤 수준이야?	175.txt
+스페인어 DELE 중급은 무슨 시험이지?	175.txt
+한자능력검정시험에서 2급은 어떤 시험이야?	175.txt
+영어 G-TELP 2단계 기준 점수는 어떻게 돼?	175.txt
+OPIc E단계는 어느 수준 이상이야?	175.txt
+TOEIC Speaking C단계는 몇 점 이상이야?	175.txt
+IELTS 2004학번은 몇 점 이상이어야 해?	175.txt
+프랑스어 구 DELF 1급은 어떤 시험이야?	175.txt
+중국어 OPIc E단계는 어느 수준 이상이야?	175.txt
+독일어 TestDaF는 무슨 시험이지?	175.txt
+러시아어 TORFL 1단계 이상이 무슨 뜻이야?	175.txt
+일본어 JPT 600점은 어떤 수준이야?	175.txt
+스페인어 OPIc B단계는 어느 수준 이상이야?	175.txt
+한자 시험은 어떤 기관에서 주관해야 인정돼?	175.txt
+영어 G-TELP B단계 기준은 어떻게 돼?	175.txt
+OPIc C단계는 어떤 수준이야?	175.txt
+TOEIC Speaking D단계 기준 점수는 몇 점이야?	175.txt
+IELTS 2001학번 이전은 몇 점 이상이어야 해?	175.txt
+프랑스어 신 DELF B1 이상은 어떤 시험이야?	175.txt
+중국어 新HSK 5급은 몇 점 이상이어야 해?	175.txt
+독일어 ZD 시험에서 befriedigend는 무슨 뜻이야?	175.txt
+러시아어 TORFL 시험은 어떤 걸 포함해?	175.txt
+일본어 JLPT N2는 어떤 점수대야?	175.txt
+스페인어 DELE 중급 이상은 무슨 시험이지?	175.txt
+한자능력검정시험 2급 이상은 어떻게 받아?	175.txt
+영어 G-TELP D단계 기준 점수는 뭐야?	175.txt
+OPIc D단계는 어떤 수준 이상이야?	175.txt
+TOEIC Speaking E단계는 몇 점 이상이야?	175.txt
+IELTS E단계는 몇 점 이상이어야 해?	175.txt
+프랑스어 DELF B1 시험은 어떤 구성이지?	175.txt
+중국어 OPIc D단계는 어느 수준 이상이야?	175.txt
+독일어 Zertifikat Deutsch 시험은 어떤 거야?	175.txt
+러시아어 TORFL 1단계 이상이면 어떤 수준이야?	175.txt
+일본어 JPT 시험 점수는 어떻게 돼?	175.txt
+스페인어 OPIc C단계는 어느 수준 이상이야?	175.txt
+한자능력검정시험 주관 기관은 어디야?	175.txt
+영어 G-TELP E단계는 몇 점 이상이야?	175.txt
+OPIc A단계는 어떤 수준 이상이야?	175.txt
+TOEIC Speaking B단계는 몇 점 이상이야?	175.txt
+IELTS C단계는 몇 점 이상이어야 해?	175.txt
+프랑스어 DELF 시험의 기준은 뭐야?	175.txt
+중국어 OPIc B단계는 어느 수준 이상이야?	175.txt
+독일어 TestDaF는 어떤 시험이야?	175.txt

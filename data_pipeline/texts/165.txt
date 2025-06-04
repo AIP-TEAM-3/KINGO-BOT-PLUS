@@ -1,0 +1,53 @@
+```plaintext
+이수구분
+
+전공/선택
+
+학수번호-과목명(학점 수)
+
+BUS3047-HR데이터리틱스(3)
+BUS3048-경영데이터리서치전략(3)
+GBA3025-Current Topics in Finance(3)
+GBA3035-Integration of Systems and Business Informatics(3)
+GBA3045-Business Practicum I : Convergence Capstone Design(3)
+GBA3046-Business Practicum II : Global Capstone Design(1)
+GBA3050-Behavioral Finance & FinTech(3)
+GBA3053-Human Resource Data Analytics(3)
+GBA3054-Marketing Analytics(3)
+
+GEC3414-Introduction to Data Science for Economics and Business(3)
+GEC3415-Digital Payment Methods and Platform Economy(3)
+
+SOE3001-통계적학습과인공지능(3)
+STA2005-베이직통계학(3)
+STA3005-베이직프로그래밍(3)
+STA3014-빅데이터미팅(3)
+STA3034-대학자료분석과사례연구(3)
+STA3035-탐색적자료분석(3)
+STA3036-통계적자료분석실습(3)
+STA3037-데이터마이닝(3)
+STA3038-통계적머신러닝(3)
+
+SOA2005-예술과데이터(3)
+SOA3002-예술과그래픽데이터(3)
+
+IBB3013-바이오의약데이터(3)
+IBB3014-바이오의약프로그래밍(3)
+IBB3018-미래식품공학(3)
+IBB3019-기능성화장품학(3)
+IBB3023-생명화학유전학및Python프로그래밍(3)
+
+주관학과
+
+경제대학
+글로벌경제학과, 통계학과
+
+예술대학
+
+생명과학대학
+컴바이오의약전공
+
+158
+
+대학 · 대학원생을 위한 2025 학사제도 안내
+```

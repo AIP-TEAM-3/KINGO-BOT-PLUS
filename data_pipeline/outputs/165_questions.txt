@@ -1,0 +1,52 @@
+
+HR데이터리틱스 과목은 몇 학점인가요?	165.txt  
+경영데이터리서치전략 수업은 몇 학점을 받을 수 있나요?	165.txt  
+Current Topics in Finance 과목은 어떤 학과에서 제공하나요?	165.txt  
+Integration of Systems and Business Informatics는 몇 학점짜리 과목인가요?	165.txt  
+Business Practicum I : Convergence Capstone Design은 몇 학점인가요?	165.txt  
+Business Practicum II : Global Capstone Design은 몇 학점인가요?	165.txt  
+Behavioral Finance & FinTech 수업은 몇 학점인가요?	165.txt  
+Human Resource Data Analytics 과목은 몇 학점인가요?	165.txt  
+Marketing Analytics 수업은 어디서 개설하나요?	165.txt  
+Introduction to Data Science for Economics and Business는 몇 학점인가요?	165.txt  
+Digital Payment Methods and Platform Economy는 몇 학점인가요?	165.txt  
+통계적학습과인공지능 과목은 몇 학점인가요?	165.txt  
+베이직통계학 수업은 몇 학점인가요?	165.txt  
+베이직프로그래밍 과목은 몇 학점인가요?	165.txt  
+빅데이터미팅 과목은 몇 학점인가요?	165.txt  
+대학자료분석과사례연구 수업은 몇 학점인가요?	165.txt  
+탐색적자료분석 수업은 몇 학점인가요?	165.txt  
+통계적자료분석실습 과목은 몇 학점인가요?	165.txt  
+데이터마이닝 수업은 몇 학점인가요?	165.txt  
+통계적머신러닝 과목은 몇 학점인가요?	165.txt  
+예술과데이터 과목은 몇 학점인가요?	165.txt  
+예술과그래픽데이터는 몇 학점인가요?	165.txt  
+바이오의약데이터 과목은 몇 학점인가요?	165.txt  
+바이오의약프로그래밍은 몇 학점인가요?	165.txt  
+미래식품공학 과목은 몇 학점인가요?	165.txt  
+기능성화장품학 과목은 몇 학점인가요?	165.txt  
+생명화학유전학및Python프로그래밍 과목은 몇 학점인가요?	165.txt  
+경제대학에서는 어떤 학과가 있나요?	165.txt  
+글로벌경제학과와 관련된 과목은 어떤 것들이 있나요?	165.txt  
+통계학과에서 제공하는 과목은 어떤 것들이 있나요?	165.txt  
+예술대학에서 개설된 과목은 무엇인가요?	165.txt  
+컴바이오의약전공은 어떤 대학에 속해 있나요?	165.txt  
+2025 학사제도 안내는 어디에서 확인할 수 있나요?	165.txt  
+학수번호가 BUS3047인 과목은 무엇인가요?	165.txt  
+학수번호가 BUS3048인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3025인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3035인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3045인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3046인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3050인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3053인 과목은 무엇인가요?	165.txt  
+학수번호가 GBA3054인 과목은 무엇인가요?	165.txt  
+학수번호가 GEC3414인 과목은 무엇인가요?	165.txt  
+학수번호가 GEC3415인 과목은 무엇인가요?	165.txt  
+학수번호가 SOE3001인 과목은 무엇인가요?	165.txt  
+학수번호가 STA2005인 과목은 무엇인가요?	165.txt  
+학수번호가 STA3005인 과목은 무엇인가요?	165.txt  
+학수번호가 STA3014인 과목은 무엇인가요?	165.txt  
+학수번호가 STA3034인 과목은 무엇인가요?	165.txt  
+학수번호가 STA3035인 과목은 무엇인가요?	165.txt  
+학수번호가 STA3036인 과목은 무엇인가요?	165.txt
