@@ -78,7 +78,7 @@ def build_prompt(prompt_type, query, doc_ids):
     for idx, doc_id in enumerate(doc_ids, start=1):
         content = DOCUMENTS[doc_id]
         doc_sections.append(f"문서 {idx}: {content}")
-    prompt = format_prompt(prompt_type, query, doc_sections)
+    prompt = format_prompt(prompt_type, doc_sections, query)
     return prompt.strip()
 
 def call_model(model_name, prompt, max_tokens=150):
