@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key="your-key")
 
-CSV_IN  = "/content/Question2doc_Pair - Prompting_result.csv"
+CSV_IN  = "./Question2doc_Pair-Prompting_result.csv"
 CSV_OUT = "Question2doc_pair-prompting_with_scores.csv"
 
 df = pd.read_csv(CSV_IN)
