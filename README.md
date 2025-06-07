@@ -96,6 +96,24 @@ python benchmark.py
 - This project is tailored for SKKU students but can be adapted for other datasets.
 - For detailed script options and customization, refer to comments within each script.
 
+## Model Evaluation Summary
+
+| Model                                    | Prompt Type | Avg BERT Score | Yes Count | No Count |
+|------------------------------------------|-------------|----------------|-----------|----------|
+| deepseek/deepseek-chat-v3-0324:free       | cot         | 0.8096         | 85        | 13       |
+| deepseek/deepseek-chat-v3-0324:free       | task        | 0.8125         | 89        | 9        |
+| deepseek/deepseek-chat-v3-0324:free       | vanilla     | 0.7823         | 86        | 12       |
+| google/gemini-2.0-flash-001               | cot         | 0.8416         | 88        | 10       |
+| google/gemini-2.0-flash-001               | task        | 0.8630         | 86        | 12       |
+| google/gemini-2.0-flash-001               | vanilla     | 0.8470         | 88        | 10       |
+| meta-llama/llama-3.3-8b-instruct:free     | cot         | 0.8843         | 70        | 28       |
+| meta-llama/llama-3.3-8b-instruct:free     | task        | 0.8846         | 75        | 23       |
+| meta-llama/llama-3.3-8b-instruct:free     | vanilla     | 0.8719         | 60        | 38       |
+| openai/gpt-4o-mini                        | cot         | 0.8700         | 87        | 11       |
+| openai/gpt-4o-mini                        | task        | 0.8867         | 81        | 17       |
+| openai/gpt-4o-mini                        | vanilla     | 0.8721         | 89        | 9        |
+
+
 ## License
 
 This project is for educational and research purposes at SKKU.
