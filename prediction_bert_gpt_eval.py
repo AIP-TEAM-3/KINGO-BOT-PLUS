@@ -45,4 +45,4 @@ df["gpt_same_answer"] = [
 ]
 
 df.to_csv(CSV_OUT, index=False)
-print(f"✅ 완료! 결과가 '{CSV_OUT}'에 저장되었습니다.")
+print(f"완료! 결과가 '{CSV_OUT}'에 저장되었습니다.")
