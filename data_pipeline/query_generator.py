@@ -52,7 +52,7 @@ def save_questions(filename, questions):
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(questions)
 
-    # ✅ 통합 파일에 덧붙이기
+    # 통합 파일에 덧붙이기
     all_path = os.path.join(OUTPUT_DIR, "all_questions.txt")
     with open(all_path, "a", encoding="utf-8") as f:
         f.write(questions.strip() + "\n")  # 줄바꿈 보장
@@ -71,7 +71,7 @@ def process_files(start: int, end: int):
                 print(f"⚠️  파일 비어있음: {fname}")
                 continue
 
-        print(f"✅ Generating questions for {fname}...")
+        print(f"Generating questions for {fname}...")
         questions = generate_questions(content, fname)
         save_questions(fname.replace(".txt", ""), questions)
         print(f"📁 저장 완료: outputs/{fname.replace('.txt', '')}_questions.txt\n")

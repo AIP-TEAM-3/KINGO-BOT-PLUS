@@ -28,13 +28,13 @@ def build_index_from_embeddings(embeddings: np.ndarray, dim: int):
 def save_index(index, name):
     path = os.path.join(INDEX_DIR, f"vector_{name.lower()}.index")
     faiss.write_index(index, path)
-    print(f"✅ Saved: {path}")
+    print(f"Saved: {path}")
 
 def save_vectorizer(vectorizer, name):
     path = os.path.join(INDEX_DIR, f"vectorizer_{name.lower()}.pkl")
     with open(path, "wb") as f:
         pickle.dump(vectorizer, f)
-    print(f"✅ Saved: {path}")
+    print(f"Saved: {path}")
 
 # 각 태그에 대해 처리
 for tag in TAGS:

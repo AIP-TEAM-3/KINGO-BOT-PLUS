@@ -11,14 +11,14 @@ CSV_PATH = "./data/csv/test.csv"
 k1 = 1.5
 b = 0.75
 
-# 🔹 문서 및 메타 로딩
+# 문서 및 메타 로딩
 with open(PKL_PATH, "rb") as f:
     data = pickle.load(f)
 chunks, file_map = data["texts"], data["file_map"]
 idx2fname = {v: k for k, v in file_map.items()}
 docs = chunks
 
-# 🔹 전처리 및 통계 수집
+# 전처리 및 통계 수집
 vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(docs)
 terms = vectorizer.get_feature_names_out()
@@ -30,11 +30,11 @@ idf = {
     for i, t in enumerate(terms)
 }
 
-# 🔹 테스트 데이터 로딩
+# 테스트 데이터 로딩
 test_df = pd.read_csv(CSV_PATH)
 test_df["Doc_index"] = test_df["Doc_index"].astype(str).str.replace(".txt", "", regex=False)
 
-# 🔹 평가
+# 평가
 hits, records = 0, []
 vocab = vectorizer.vocabulary_
 
@@ -72,7 +72,7 @@ for row in tqdm.tqdm(test_df.itertuples(index=False), total=len(test_df), desc="
             "BM25_C": "O" if correct else "X"
         })
 
-# 🔹 결과 출력
+# 결과 출력
 print("\n=== Top 10 examples =============================")
 for i, r in enumerate(records, 1):
     print(f"[{i}] Q: {r['Question'][:80]}...")
