@@ -11,10 +11,8 @@ services:
       - "7860:7860"
     depends_on:
       - qdrant
-    environment:
-      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
     volumes:
-      - ./:/app
+      - /home/ubuntu/KINGO-BOT-PLUS:/app
     restart: unless-stopped
 
   qdrant:

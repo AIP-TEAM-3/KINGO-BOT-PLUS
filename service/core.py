@@ -10,9 +10,9 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct
 
 openai.api_base = "https://openrouter.ai/api/v1"
-openai.api_key = os.getenv("OPENROUTER_API_KEY") 
+openai.api_key = ""
 
-qdrant_client = QdrantClient(url="http://localhost:6333")
+qdrant_client = QdrantClient(host="qdrant", port=6333)
 
 llm_model = [
     "openai/gpt-4o-mini",
@@ -20,7 +20,7 @@ llm_model = [
     "meta-llama/llama-3.3-8b-instruct:free",
     "google/gemini-2.0-flash-001"
 ]
-embedding_model_path = "training_results/expr3/ckpt/FT_epoch10"
+embedding_model_path = "../training_results/expr3/ckpt/FT_epoch10"
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model = SentenceTransformer(embedding_model_path, device=device)
