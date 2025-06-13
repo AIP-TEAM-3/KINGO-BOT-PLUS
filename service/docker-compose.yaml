@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  demo:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    container_name: demo
+    ports:
+      - "8000:8000"
+      - "7860:7860"
+    depends_on:
+      - qdrant
+    environment:
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    volumes:
+      - ./:/app
+    restart: unless-stopped
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage
+    restart: unless-stopped
