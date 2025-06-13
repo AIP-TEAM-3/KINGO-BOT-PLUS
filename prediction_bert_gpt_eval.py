@@ -46,3 +46,14 @@ df["gpt_same_answer"] = [
 
 df.to_csv(CSV_OUT, index=False)
 print(f"완료! 결과가 '{CSV_OUT}'에 저장되었습니다.")
+
+if "model" in df.columns and "prompt_type" in df.columns:
+    group_stats = (
+        df[df["bert_score"] >= 0.8]
+        .groupby(["model", "prompt_type"])
+        .size()
+        .reset_index(name="count_bert_score_0.8_over")
+    )
+
+    print("\n[BERTScore 0.8 이상 카운트 결과]")
+    print(group_stats.to_string(index=False))
